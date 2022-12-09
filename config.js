@@ -23,23 +23,23 @@ global.sgc = "https://chat.whatsapp.com/E3l5YxNNUx89ecCRpOoOtO"
 global.location = "Banten" //ur location
 
 //bot bomdy 
-global.owner = ['6281997496643'] //ur number
-global.ownernomer = "6281997496643" //ur number
-global.ownertag = '6281997496643' //ur tag number
-global.premium = ['6281997496643'] //ur premium number
-global.botname = '𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇' //ur bot name
-global.ownername = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇"
-global.linkz = "https://youtube.com/@AnggaXyzz" //your theme url which will be displayed on whatsapp
-global.dana = "6281997496643"
-global.gopay = "6281997496643"
-global.pulsa = "6281997496643"
-global.websitex = "https://youtube.com/@AnggaXyzz" //ur website to be displayed
+global.owner = ['6287747090872'] //ur number
+global.ownernomer = "6287747090872" //ur number
+global.ownertag = '6287747090872' //ur tag number
+global.premium = ['6287747090872'] //ur premium number
+global.botname = 'zikriBOT' //ur bot name
+global.ownername = "ZikriGanteng"
+global.linkz = "https://youtube.com/@rrq_skylar" //your theme url which will be displayed on whatsapp
+global.dana = "6287747090872"
+global.gopay = "6287747090872"
+global.pulsa = "6287747090872"
+global.websitex = "https://youtube.com/@rrq_skylar" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://github.com/AnggaXyzZ' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "𝗔𝗻𝗴𝗴𝗮𝗕𝗼𝘁𝘇" //ur sticker watermark author
-global.wm = "𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇" //ur watermark
+global.packname = "Sticker By ZikriXploit" //ur sticker watermark packname
+global.author = "zikriXp" //ur sticker watermark author
+global.wm = "zikriXp" //ur watermark
 
 // Other
 global.sessionName = 'Session'
